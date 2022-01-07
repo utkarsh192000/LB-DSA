@@ -1,0 +1,5 @@
+
+// char in C++
+// strings in C++
+// cin stops execution when either space , tab , newLine is given 
+// key difference beteeen char array and string 

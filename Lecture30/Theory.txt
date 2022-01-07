@@ -1,0 +1,28 @@
+
+
+1) What is Macro ?
+    A piece of code in Program that is replaced by a value 
+
+2) Global Variable Concept ??
+
+-> we can share variable through reference variable
+-> local variable is only accessible inside that function / or a block  ; it dies outside that function
+-> global variable has a global scope ; it is accessible every where inside a program ; be it 
+    main() , func1() , func(int a) .......
+    
+-> global variable definition is not a good practice ; as it can be updated easily ; 
+    ; also it will need a space in open 
+-> it is better to use refernce varible thing 
+
+3) Inline Function Concept ??
+-> It is just a function usually of 1-2 line statement ; which dont take space in function call stack 
+
+
+4) Default Argument Concept ??
+    -> if any argument in function declaration is passed as default argument , then if no value 
+        is passed as parameter during function call , then it will take default value of it 
+
+
+// Home Work  :
+=> https://www.geeksforgeeks.org/macros-and-its-types-in-c-cpp/
+=> https://www.codingninjas.com/codestudio/guided-paths/basics-of-c/content/118785/offering/1381154
