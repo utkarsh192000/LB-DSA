@@ -1,0 +1,53 @@
+
+=> Lectures with Topics :
+
+1) Intro to Programming and FlowChart 
+2) First Program In C++
+3) if - else, else if , conditional
+4) Patterns 
+5) BitWise Operator , For Loops , Variables Scoping 
+6) Decimal to Binary ,Binary To decimal 
+7) Reverse Integer  , Complement of Integer , Power of Two 
+8) Switch Statement and Function in C++
+9) Introductions to array 
+10) find Unique element,find Duplicate Element ,Array Intersection and More  
+11) Time and Space Complexity 
+12) Binary Search Explanation 
+13) First And Last Position of An Element , Peak in Mountain Array 
+14) Pivot in Array, search in Rotated sorted Array,  find Square root using Binary Search
+15) Book Allocation , Painters Partition , Aggressive Cows  
+16) Selection Sort 
+17) Bubble Sort 
+18) Insertion Sort 
+19) C++ STL 
+20) Reverse an Array , Merge 2 sorted Array , move Zeroes 
+21) Rotate ararys , check if Rotated and sorted Array , Add arrays
+22) All About char ,strings ,arrays 
+23) Introduction to 2D arrays in C++
+24) Basics Maths for DSA 
+25) Pointers in C++ (Part-1)
+26) Pointers in C++ (Part-2)
+27) Double Pointers In C++
+28) Reference Variables , static and Dynnamic Memory 
+29) Dynamic Allocation of 2-d arrays 
+30) Macros,Global Varibles ,Inline Functions & Default Args 
+31) Recursion Day-1
+32) Recursion Day-2
+33) Recursion and Binary Search 
+34) Recursion and String 
+35) Merge Sort 
+36) Quick Sort 
+37) Subset/Sequences of a String 
+38) Phone Keypad Problem
+39) Permutation of String 
+40) Rate in Maze Problem
+41) 
+42) 
+43) 
+44) 
+45) 
+46) 
+47) 
+48) 
+49) 
+50) 
